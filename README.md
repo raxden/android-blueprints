@@ -5,7 +5,7 @@ A collection of samples and documentation to discuss and showcase different arch
 
 | Source | Description |
 | ------------- | ------------- |
-| [android-lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) | Compilation of cheat sheets that explain in detail what is the life cyle of different components in Android.
+| [lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) | Compilation of cheat sheets that explain in detail what is the life cyle of different components in Android.
 
 ### MVVM documentation
 | Source | Description |
