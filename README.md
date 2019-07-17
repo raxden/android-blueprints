@@ -13,6 +13,11 @@ A collection of samples and documentation to discuss and showcase different arch
 | ------------- | ------------- |
 | [common-mistakes](https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50) | Our Way to MVVM and Mistakes We Made When Implementing MVVM.
 
+### Libraries
+| Source | Description |
+| ------------- | ------------- |
+| [material-components](https://github.com/material-components/material-components-android) | Material Components for Android (MDC-Android) help developers execute Material Design. Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional Android apps.
+
 ### UnitTest
 | Source | Description |
 | ------------- | ------------- |
