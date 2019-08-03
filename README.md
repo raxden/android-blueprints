@@ -13,7 +13,7 @@ A collection of samples and documentation to discuss and showcase different arch
 | ------------- | ------------- |
 | [common-mistakes](https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50) | Our Way to MVVM and Mistakes We Made When Implementing MVVM.
 | [event-livedata](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150) | Solution to issue related with events that should be consumed only once.
-| [viewmodel-config-changes](https://medium.com/androiddevelopers/locale-changes-and-the-androidviewmodel-antipattern-84eb677660d9) | Locale changes and the AndroidViewModel antipattern. Why you should not use resources in viewmodel.
+| [config-changes](https://medium.com/androiddevelopers/locale-changes-and-the-androidviewmodel-antipattern-84eb677660d9) | Locale changes and the AndroidViewModel antipattern. Why you should not use resources in viewmodel.
 
 ### Libraries
 | Source | Description |
