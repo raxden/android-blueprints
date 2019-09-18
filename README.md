@@ -15,6 +15,12 @@ A collection of samples and documentation to discuss and showcase different arch
 | [event-livedata](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150) | Solution to issue related with events that should be consumed only once.
 | [config-changes](https://medium.com/androiddevelopers/locale-changes-and-the-androidviewmodel-antipattern-84eb677660d9) | Locale changes and the AndroidViewModel antipattern. Why you should not use resources in viewmodel.
 
+### Room documentation
+| Source | Description |
+| ------------- | ------------- |
+| [steps](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2) | 7 Steps To Room.
+| [tips](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1) | 7 pro tips for room.
+
 ### Libraries
 | Source | Description |
 | ------------- | ------------- |
