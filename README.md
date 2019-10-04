@@ -32,14 +32,10 @@ A collection of samples and documentation to discuss and showcase different arch
 | [article](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989) | Interesting article about unitTest.
 | [article](https://medium.com/@nicolas.duponchel/testing-viewmodel-in-mvvm-using-livedata-and-rxjava-b27878495220) | Testing ViewModel in MVVM using LiveData and RxJava.
 | [article](https://proandroiddev.com/outside-in-tdd-on-android-5f0651054946) | Outside-In TDD on Android
+| [Cheat sheet](https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf) | Espresso cheat sheet.
 
 ### Proguard
 | Source | Description |
 | ------------- | ------------- |
 | [todo‑samples](https://github.com/krschultz/android-proguard-snippets) | Proguard configurations for common Android libraries.
-
-### Chetsheet
-| Source | Description |
-| ------------- | ------------- |
-| [Espresso](https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf) | Espresso.
 
