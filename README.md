@@ -37,3 +37,9 @@ A collection of samples and documentation to discuss and showcase different arch
 | Source | Description |
 | ------------- | ------------- |
 | [todo‑samples](https://github.com/krschultz/android-proguard-snippets) | Proguard configurations for common Android libraries.
+
+### Chetsheet
+| Source | Description |
+| ------------- | ------------- |
+| [Espresso](https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf) | Espresso.
+
