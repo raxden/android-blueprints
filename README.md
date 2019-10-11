@@ -34,6 +34,11 @@ A collection of samples and documentation to discuss and showcase different arch
 | [article](https://proandroiddev.com/outside-in-tdd-on-android-5f0651054946) | Outside-In TDD on Android
 | [Cheat sheet](https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf) | Espresso cheat sheet.
 
+### CI
+| Source | Description |
+| ------------- | ------------- |
+| [article](https://about.gitlab.com/blog/2018/10/24/setting-up-gitlab-ci-for-android-projects/) | Setting up GitLab CI for Android projects
+
 ### Proguard
 | Source | Description |
 | ------------- | ------------- |
