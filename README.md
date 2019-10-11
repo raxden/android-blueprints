@@ -38,6 +38,7 @@ A collection of samples and documentation to discuss and showcase different arch
 | Source | Description |
 | ------------- | ------------- |
 | [article](https://about.gitlab.com/blog/2018/10/24/setting-up-gitlab-ci-for-android-projects/) | Setting up GitLab CI for Android projects
+| [sample](https://gist.github.com/illuzor/988385c493d3f7ed7193a6e3ce001a68) | YML sample.
 
 ### Proguard
 | Source | Description |
