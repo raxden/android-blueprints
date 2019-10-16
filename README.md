@@ -26,6 +26,11 @@ A collection of samples and documentation to discuss and showcase different arch
 | ------------- | ------------- |
 | [material-components](https://github.com/material-components/material-components-android) | Material Components for Android (MDC-Android) help developers execute Material Design. Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional Android apps.
 
+### Gradle
+| Source | Description |
+| ------------- | ------------- |
+| [gradle-kotlin](https://proandroiddev.com/migrate-to-gradle-kotlin-dsl-in-4-steps-f3e3b27e1f4d) | Migrate to Gradle Kotlin DSL in Four Steps
+
 ### Koin
 | Source | Description |
 | ------------- | ------------- |
