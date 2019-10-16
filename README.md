@@ -33,6 +33,14 @@ A collection of samples and documentation to discuss and showcase different arch
 | [viewmodel](https://android.jlelse.eu/unlock-your-android-viewmodel-power-with-koin-23eda8f493be) | Unlock your Android ViewModel power with Koin.
 | [article](https://blog.usejournal.com/android-koin-with-mvvm-and-retrofit-e040e4e15f9d) | Koin vs Dagger, Say hello to Koin
 
+### Coroutines
+| Source | Description |
+| ------------- | ------------- |
+| [dependencies](https://developer.android.com/jetpack/androidx/releases/lifecycle) | Dependencies
+| [liveData](https://developer.android.com/topic/libraries/architecture/coroutines#livedata) | Use coroutines with LiveData
+| [article](https://medium.com/corouteam/exploring-kotlin-coroutines-and-lifecycle-architectural-components-integration-on-android-c63bb8a9156f) | Exploring new Coroutines and Lifecycle Architectural Components integration on Android
+
+
 ### UnitTest
 | Source | Description |
 | ------------- | ------------- |
