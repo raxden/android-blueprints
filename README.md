@@ -5,7 +5,7 @@ A collection of samples and documentation to discuss and showcase different arch
 
 | Source | Description |
 | ------------- | ------------- |
-| [lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) | Compilation of cheat sheets that explain in detail what is the life cyle of different components in Android.
+| [lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) | Compilation of cheat sheets that explain in detail what is the lifecyle of different components in Android.
 | [arquitecture](https://android.jlelse.eu/android-app-architecture-ground-up-d634eda1f21d) | Interest article that explain how to make a arquitecture based on SOLID principles. 
 
 ### MVVM documentation
