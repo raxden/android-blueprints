@@ -1,6 +1,15 @@
 # Android Blueprints
 A collection of samples and documentation to discuss and showcase different architectural tools and patterns for Android apps.
 
+### Plugins for your AndroidStudio
+
+| Source | Description |
+| ------------- | ------------- |
+| [rainbowbrackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+| [jsonToKotlinClass](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
+| [keyPromoterX](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+| [adbIdea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
+
 ### Commons
 
 | Source | Description |
