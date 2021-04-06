@@ -1,14 +1,14 @@
 # Android Blueprints
 A collection of samples and documentation to discuss and showcase different architectural tools and patterns for Android apps.
 
-### Plugins for your AndroidStudio
+### Plugins for AndroidStudio
 
 | Source | Description |
 | ------------- | ------------- |
-| [rainbowbrackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
-| [jsonToKotlinClass](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
-| [keyPromoterX](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
-| [adbIdea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
+| [rainbowbrackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) | Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs
+| [jsonToKotlinClass](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-) | Plugin for Kotlin to convert Json String into Kotlin data class code quickly
+| [keyPromoterX](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) | The Key Promoter X helps you to learn essential shortcuts while you are working
+| [adbIdea](https://plugins.jetbrains.com/plugin/7380-adb-idea) | Adds the following ADB commands to Android Studio and Intellij
 
 ### Commons
 
