@@ -14,6 +14,7 @@ https://www.jetbrains.com/es-es/lp/mono/
 | [keyPromoterX](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) | The Key Promoter X helps you to learn essential shortcuts while you are working
 | [adbIdea](https://plugins.jetbrains.com/plugin/7380-adb-idea) | Adds the following ADB commands to Android Studio and Intellij
 | [detekt](https://plugins.jetbrains.com/plugin/10761-detekt) | Plugin for detekt, static code analysis for kotlin.
+| [gitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox) | Extends Git Integration with additional features.
 
 ### Commons
 
