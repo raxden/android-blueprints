@@ -29,8 +29,8 @@ https://www.jetbrains.com/es-es/lp/mono/
 | [mistakes](https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50) | Our Way to MVVM and Mistakes We Made When Implementing MVVM.
 | [mistakes](https://proandroiddev.com/5-common-mistakes-when-using-architecture-components-403e9899f4cb) | 5 common mistakes when using Architecture Components
 | [livedata](https://blog.usejournal.com/observe-livedata-from-viewmodel-in-fragment-fd7d14f9f5fb) | How to observe livedata from fragment
-| [event-livedata](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150) | Solution to issue related with events that should be consumed only once.
-| [config-changes](https://medium.com/androiddevelopers/locale-changes-and-the-androidviewmodel-antipattern-84eb677660d9) | Locale changes and the AndroidViewModel antipattern. Why you should not use resources in viewmodel.
+| Deprecated - [event-livedata](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150) | Solution to issue related with events that should be consumed only once.
+| [config-changes](https://www.droidcon.com/2022/01/14/sending-viewmodel-events-to-the-ui-in-android/) | Sending viewmodel events to the ui in android.
 
 ### Room documentation
 | Source | Description |
