@@ -29,8 +29,10 @@ https://www.jetbrains.com/es-es/lp/mono/
 | [mistakes](https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50) | Our Way to MVVM and Mistakes We Made When Implementing MVVM.
 | [mistakes](https://proandroiddev.com/5-common-mistakes-when-using-architecture-components-403e9899f4cb) | 5 common mistakes when using Architecture Components
 | [livedata](https://blog.usejournal.com/observe-livedata-from-viewmodel-in-fragment-fd7d14f9f5fb) | How to observe livedata from fragment
-| Deprecated - [event-livedata](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150) | Solution to issue related with events that should be consumed only once.
-| [event-mvvm](https://www.droidcon.com/2022/01/14/sending-viewmodel-events-to-the-ui-in-android/) | Sending viewmodel events to the ui in android.
+| ANTIPATTERN - [event-livedata](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150) | Solution to issue related with events that should be consumed only once.
+| [event](https://developer.android.com/topic/architecture/ui-layer/events#consuming-trigger-updates) | How to consume events from ui.
+| [event](https://medium.com/androiddevelopers/viewmodel-one-off-event-antipatterns-16a1da869b95) | Antipatterns.
+| [event](https://www.droidcon.com/2022/01/14/sending-viewmodel-events-to-the-ui-in-android/) | Sending viewmodel events to the ui in android.
 
 ### Room documentation
 | Source | Description |
