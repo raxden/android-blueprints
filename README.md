@@ -33,6 +33,7 @@ https://www.jetbrains.com/es-es/lp/mono/
 | [event](https://developer.android.com/topic/architecture/ui-layer/events#consuming-trigger-updates) | How to consume events from ui.
 | [event](https://medium.com/androiddevelopers/viewmodel-one-off-event-antipatterns-16a1da869b95) | Antipatterns.
 | [event](https://www.droidcon.com/2022/01/14/sending-viewmodel-events-to-the-ui-in-android/) | Sending viewmodel events to the ui in android.
+| [event]([https://www.droidcon.com/2022/01/14/sending-viewmodel-events-to-the-ui-in-android/](https://stackoverflow.com/questions/71033789/how-to-handle-one-shot-operations-in-jetpack-compose/71036376#71036376)) | Sending viewmodel events to the Compose in android.
 
 ### Room documentation
 | Source | Description |
